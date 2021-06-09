@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Ashipa microgrid management software and website
 - 🌱 I’m currently learning React, GraphQL and getting better at VueJS and UI/UX
 - 👯 I’m looking to collaborate on any cool side projects
-- 🤔 I’m looking for help with growing and in search of a mentor
+- 🤔 I’m looking for opportunities to grow and learn
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love games🕹, photography📸 and travelling✈
 <!-- - 📫 How to reach me: ... -->
